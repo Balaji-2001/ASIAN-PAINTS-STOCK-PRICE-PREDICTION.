@@ -85,7 +85,7 @@ This project aims to predict the future stock prices of Asian Paints by leveragi
 
 ## 🙏 Credits
 
-- Data: Yahoo Finance / NSE / BSE / [Your Data Source]
+- Data: Yahoo Finance / NSE / BSE
 - Developed by [Balaji V](https://github.com/Balaji-2001)
 
 *Feel free to fork, contribute, or use this project for learning and research!*
